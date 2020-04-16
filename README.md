@@ -1,0 +1,2 @@
+# lesionesderodilla
+La idea del proyecto es dar a conocer sobre los problemas de la rodilla, que todos alguna vez tuvimos y algunas cosas que podemos hacer para esos dolores, pero la idea es ir agregando poco a poco ingenieria del conocimiento, dejo la pantilla inicial, uno de los planes para esto es dejar el codigo con el que va a interactuar el cliente, desde el back hasta el front, y de poco a poco mejorarlo utilizando python, pero por mis pocos conocimientos comence esto en js y ts, pronto voy a ir agreando mejoras conforme aprenda más cosas practicas
